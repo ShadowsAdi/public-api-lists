@@ -546,6 +546,7 @@ For information on contributing to this project, please see the [contributing gu
 |                [TCGdex](https://www.tcgdex.dev/)                | A Multilanguage Pokémon TCG Database with Cards Pictures and most of the informations contained on the cards |       No        |  Yes  |   Yes   |
 |       [Wargaming.net](https://developers.wargaming.net/)        | Wargaming.net info and stats                                                                                 |    `apiKey`     |  Yes  |   No    |
 |               [xkcd](https://xkcd.com/json.html)                | Retrieve xkcd comics as JSON                                                                                 |       No        |  Yes  |   No    |
+|  [TheGamestracker.com](https://thegamestracker.com/server-info-api) | Monitored game servers informations in JSON format                                                                                   |       `apiKey`        |  Yes  |   Yes    |
 
 **[⬆ Back to Index](#index)**
 
